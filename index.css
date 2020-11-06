@@ -1,0 +1,120 @@
+    div,
+    section,
+    nav {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    
+    .orange {
+        width: 100px;
+        height: 50px;
+        background: #FF764E;
+        margin-left: 120px;
+        margin-right: 90px;
+        border-radius: 12%
+    }
+    
+    .yellow {
+        background: #FFCD69;
+        width: 100px;
+        height: 50px;
+        margin-left: 90px;
+        margin-right: 90px;
+        border-radius: 12%
+    }
+    
+    .blue {
+        background: #5ED3EB;
+        width: 100px;
+        height: 50px;
+        margin-left: 90px;
+        margin-right: 90px;
+        border-radius: 12%
+    }
+    
+    .yos_image {
+        margin-left: 50px;
+    }
+    
+    .yos_image img {
+        float: left;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin-top: 50px;
+        margin-left: 45px;
+        margin-right: 60px
+    }
+    
+    .text_container {
+        width: 800px;
+        text-align: center;
+    }
+    
+    .text_container h1 {
+        font-size: 40px;
+        margin-top: 80px;
+        margin-left: 80px;
+        font-family: 'Chelsea Market', cursive;
+    }
+    
+    .text_container p {
+        font-size: 14px;
+        font-family: 'Roboto Mono', monospace;
+    }
+    
+    #prgph_with_bkgrnd {
+        width: 800px;
+        background: #DDB9A3;
+        margin-left: 60px;
+        margin-top: 60px;
+        padding: 20px;
+        font-family: 'Roboto Mono', monospace;
+        font-size: 14px;
+        color: white;
+    }
+    
+    .img_with_text {
+        width: 800px;
+    }
+    
+    .img_with_text img {
+        width: 70px;
+        height: 70px;
+        margin-left: 450px;
+        margin-top: 50px;
+    }
+    
+    .img_with_text p {
+        content: normal;
+        font-family: 'Roboto Mono', monospace;
+        font-size: 12px;
+        margin-left: 350px;
+        margin-bottom: 50px;
+        margin-right: 150px;
+    }
+    
+    footer {
+        width: 1000px;
+        height: 200px;
+        background: #F9E7DC;
+    }
+    
+    .footerimage {
+        width: 1000px;
+        height: 200px;
+        margin-top: 0px;
+        margin-bottom: 50px;
+        background: url(https://raw.githubusercontent.com/LambdaSchool/web-module-project-intro-css/main/assets/footer_img.jpg);
+        background-size: cover;
+    }
+    
+    nav {
+        width: 1000px;
+        height: 100px;
+    }
